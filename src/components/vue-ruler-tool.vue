@@ -27,7 +27,7 @@
       return {
         listOrigin: [], // 弹幕源数据
         channel: [], // 轨道位置
-        channelCount: 40, // 每个轨道展示弹幕最多数量
+        channelCount: 40, // 每个轨道每屏幕展示弹幕最多数量
         itemCss: '', // 自定义弹幕样式
         duration: 8, // 弹幕横跨全屏的时间(单位：s)
 

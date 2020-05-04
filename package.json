@@ -1,7 +1,7 @@
 {
   "name": "barrage_plugin",
   "description": "vue弹幕插件",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Caofanghui",
   "license": "MIT",
   "main": "dist/index.js",
